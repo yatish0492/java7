@@ -1,0 +1,47 @@
+package com.yatish.String;
+
+public class What_is_String {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * How is string stored internally?
+		 * It is stored as charecter array 'char[]'
+		 * 
+		 * 
+		 * 
+		 * I have heard string is immutable and final, can you please explain?
+		 * one we create a string we cannot change it. even if we do some modification to the string, there will be a new string created, the existing string will not be changed.
+		 * eg: s = "yatish";
+		 * 	   s = "Gagan";		--> In this case, "yatish" will not be changed to "Gagan" in memeory. a new string "Gagan" will be created and that reference will be assigned to 's'. "yatish" will be
+		 * 							cleaned up by garbage collector if there are no other reference.
+		 * similarly, s.toUpperCase()/s.toLowerCase()/s.substr() etc won't change the 's' variable. It will create new result string and return it.
+		 * 
+		 * 
+		 * 
+		 * What is String pool?
+		 * The strings are stored in a pool called 'string pool'. It will be present in the heap memory.
+		 * 
+		 * 
+		 * 
+		 * 
+		 * What is string literal vs string object?
+		 * String literal --> String s = "abc";
+		 * String object  --> String s = new String("abc");
+		 * 
+		 * String literal --> String s = "abc";
+		 * 					  String m = "abc";	--> In this case, java will not create new string "abc" in string pool. First java will check whether if "abc" is already present in the string pool 
+		 * 											or not. if it is present then it will point to the existing string instead of creating new one. In this case, it will reference to the existing 
+		 * 											"abc" string in the string pool.
+		 * String object  --> String s = new String("abc");  --> This will create a new string "abc" in string pool, irrespective of whether already "abc"  is present in the string pool or not.
+		 * 
+		 * 
+		 * How does spring check whether if the string is already present in the string pool or not?
+		 * While storing the strings in string pool, the hash code of the string is calculated based on the charecters.
+		 * 
+		 */
+		String s = "yatish";
+
+	}
+
+}

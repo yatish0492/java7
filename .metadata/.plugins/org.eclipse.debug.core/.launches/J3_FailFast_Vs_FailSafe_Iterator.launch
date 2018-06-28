@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/java7Tutorial/src/com/yatish/collection/J3_FailFast_Vs_FailSafe_Iterator.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.yatish.collection.J3_FailFast_Vs_FailSafe_Iterator"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="java7Tutorial"/>
+</launchConfiguration>

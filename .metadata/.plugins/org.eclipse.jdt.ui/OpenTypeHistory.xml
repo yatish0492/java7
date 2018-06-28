@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.lang(Iterable.class[Iterable" modifiers="1537" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(Collection.class[Collection" modifiers="1537" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(List.class[List" modifiers="1537" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(Set.class[Set" modifiers="1537" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(SortedSet.class[SortedSet" modifiers="1537" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(NavigableSet.class[NavigableSet" modifiers="1537" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(Queue.class[Queue" modifiers="1537" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(Deque.class[Deque" modifiers="1537" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(ArrayList.class[ArrayList" modifiers="33" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(PriorityQueue.class[PriorityQueue" modifiers="33" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(HashMap.class[HashMap" modifiers="33" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(LinkedHashMap.class[LinkedHashMap" modifiers="33" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(TreeMap.class[TreeMap" modifiers="33" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(Hashtable.class[Hashtable" modifiers="33" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.util(Map.class[Map" modifiers="1537" timestamp="1428691365000"/>
+<typeInfo handle="=java7Tutorial/\/Library\/Java\/JavaVirtualMachines\/jdk1.7.0_80.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1428691365000"/>
+</typeInfoHistroy>

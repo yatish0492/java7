@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yatish.Clone.J1_Shallow_Clone&apos; to &apos;J1_Deep_Clone&apos;&#x0A;- Original project: &apos;java7Tutorial&apos;&#x0A;- Original element: &apos;com.yatish.Clone.J1_Shallow_Clone&apos;&#x0A;- Renamed element: &apos;com.yatish.Clone.J1_Deep_Clone&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;J1_Shallow_Clone&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yatish.Clone{J1_Shallow_Clone.java[J1_Shallow_Clone" matchStrategy="1" name="J1_Deep_Clone" qualified="false" references="true" similarDeclarations="false" stamp="1523028028024" textual="false" version="1.0"/>
+</session>

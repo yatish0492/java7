@@ -1,0 +1,35 @@
+package com.yatish.String;
+
+public class What_is_String {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * How is string stored internally?
+		 * It is stored as charecter array 'char[]'
+		 * 
+		 * What is string literal vs string object?
+		 * String literal --> String s = "abc";
+		 * String object  --> String s = new String("abc");
+		 * 
+		 * 
+		 * 
+		 * I have heard string is immutable and final, can you please explain?
+		 * one we create a string we cannot change it. even if we do some modification to the string, there will be a new string created, the existing string will not be changed.
+		 * eg: s = "yatish";
+		 * 	   s = "Gagan";		--> In this case, "yatish" will not be changed to "Gagan" in memeory. a new string "Gagan" will be created and that reference will be assigned to 's'. "yatish" will be
+		 * 							cleaned up by garbage collector if there are no other reference.
+		 * similarly, s.toUpperCase()/s.toLowerCase()/s.substr() etc won't change the 's' variable. It will create new result string and return it.
+		 * 
+		 * 
+		 * What is String pool?
+		 * The strings are stored in a pool called 'string pool'. It will be present in the heap memory.
+		 * 
+		 * 
+		 * 
+		 */
+		String s = "yatish";
+
+	}
+
+}

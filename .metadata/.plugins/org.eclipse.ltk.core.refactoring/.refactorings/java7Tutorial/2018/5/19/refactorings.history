@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;java7Tutorial&apos;&#x0A;- Original project: &apos;java7Tutorial&apos;&#x0A;- Original element: &apos;com.yatish.garbage.collection.J2_How_Garbage_Collection_Works.java&apos;" description="Delete element" element1="/src&lt;com.yatish.garbage.collection{J2_How_Garbage_Collection_Works.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1525629575177" subPackages="false" version="1.0"/>
+</session>
