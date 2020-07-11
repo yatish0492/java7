@@ -20,10 +20,11 @@ public class J9_Join {
 		o1.start();
 		
 		/*
-		 * 'o1.join()' --> This block the execution point here itself(at this statement) until 't1' thread is completed. like how while debugging
-		 * 		   until we release the control to next step. So if already we have started any other threads say like 'o2.start()' then 
-		 *		   that thread would still run in parallel. Basically it doesn't block any other threads which are running.
-		 * 
+		 * 'o1.join()' --> This block the execution point here itself(at this statement) until 'o1' thread is completed. like how while debugging
+		 * 		   control is stuck at the breakpoint until we release the control to next step. So if already we have started any other  
+		 *		   threads say like 'o2.start()' then that thread would still run in parallel. Basically it doesn't block any other threads 
+		 * 		   which are already started/running.
+		 *
 		 * NOTE: There is one more variation of '.join()' which accepts a parameter(long). '.join(long milliseconds)' in this case the execution point
 		 *		is blocked until whichever of the following happens first,
 		 *			1) If the thread on which '.join()' is called finishes 
