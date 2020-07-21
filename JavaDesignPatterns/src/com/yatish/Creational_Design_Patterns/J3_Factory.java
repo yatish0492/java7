@@ -29,7 +29,7 @@ public class J3_Factory implements Factory {
 	/*
 	 * This method is responsible for instantiating the objects and returning the objects. it also should be 'public' and 'non-static' as we call this method using factory single instance.
 	 */
-	public Object getObject(String s) {
+	public Vehicle getObject(String s) {
 		switch(s) {
 		case "car" : return new Car();
 		case "bike" : return new Bike();
@@ -55,6 +55,18 @@ interface Factory {
 	Object getObject(String s);
 }
 
-class Car {}
-class Bike {}
-class Cycle {}
+
+/*
+	This is mandatory. Make sure you have an interface which is implemented by all the objects returned by factory. because 'getObject(String)'
+	method needs a return type. we cannot give 'Car' or 'Bike' or 'Cycle' because we don't know which object it returns so we need to have
+	have this interface which is implemented by all those objects and use this as the return type.
+
+	We could have used 'Object' as return type right. instead of this interface?
+		In that case we are leaving a chance that someone can return some other object which we don't intend to with this interface we can restict
+		that returning object should be of this interface type only.
+ */
+interface Vehicle {}
+
+class Car implements Vehicle{}
+class Bike implements Vehicle{}
+class Cycle implements Vehicle{}

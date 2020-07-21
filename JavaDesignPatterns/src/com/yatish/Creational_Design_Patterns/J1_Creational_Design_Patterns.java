@@ -1,5 +1,12 @@
 package com.yatish.Creational_Design_Patterns;
 
+/*
+    There are 3 types of Design patters
+        1) Creational Patterns
+        2) Structural Patterns
+        3) Behavioral Patterns
+ */
+
 public class J1_Creational_Design_Patterns {
 
 	/*

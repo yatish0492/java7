@@ -1,5 +1,7 @@
 package com.yatish.Creational_Design_Patterns;
 
+import java.io.Serializable;
+
 /*
  * What is Singleton design pattern?
  * Singleton design patterns restricts the instantiation of the class and ensures that only once instance of the class exists in JVM.
@@ -11,7 +13,9 @@ package com.yatish.Creational_Design_Patterns;
  * 
  * NOTE: singleton design pattern is used in core java classes also like 'java.lang.Runtime, java.awt.Desktop.'
  */
-public class J2_Singleton {
+
+// 'Serializable' is not mandatory. we have added for proving something in 'J2_3_BreakingSingleton_Using_Serialization.java'
+public class J2_Singleton implements Serializable {
 	
 	/*
 	 * make sure it is make 'private' and 'static'.
